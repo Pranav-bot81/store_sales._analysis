@@ -39,9 +39,3 @@ This project presents a comprehensive data analysis of **Vrinda Store** using **
 
 ---
 
-## 📄 How to Use
-
-1. Clone or download this repository:
-   ```bash
-   git clone https://github.com/Kush2217052/vrinda-store-data-analysis.git
-   cd vrinda-store-data-analysis
